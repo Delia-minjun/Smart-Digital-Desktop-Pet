@@ -1,4 +1,4 @@
-# Project-of-Microcomputer-Principles-and-Embedded-Systems
+# Smart Digital Desktop Pet
 ## description
 This is an open-source enhanced derivative work, used for the final project of Microcomputer Principles and Embedded Systems.
 
